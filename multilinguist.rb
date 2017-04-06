@@ -1,7 +1,7 @@
 require 'httparty'
 require 'json'
 
-#TEST 
+
 # This class represents a world traveller who knows what languages are spoken in each country
 # around the world and can cobble together a sentence in most of them (but not very well)
 class Multilinguist
